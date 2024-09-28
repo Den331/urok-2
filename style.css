@@ -1,0 +1,16 @@
+body{
+    background-color:aqua;
+    color: black;
+}
+li{
+    list-style-type:lower-latin ;
+}
+div{
+    width: 800px;
+    height: 800px;
+ 
+}
+img{
+    width: 1600px;
+    height: 800px;;
+}
